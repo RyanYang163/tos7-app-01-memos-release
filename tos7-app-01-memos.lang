@@ -1,0 +1,97 @@
+[en-us]
+name = "Memos"
+auth = "TOS Review Test Corpus"
+descript = "A lightweight self-hosted note-taking service with Markdown support and a clean web interface."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[zh-cn]
+name = "Memos"
+auth = "TOS Review Test Corpus"
+descript = "一个轻量级的自托管笔记服务,支持 Markdown,界面简洁,帮助你快速记录想法。"
+release_note = "1. 首次发布。"
+important = "需要先安装并启用 DockerEngine。"
+
+[zh-hk]
+name = "Memos"
+auth = "TOS Review Test Corpus"
+descript = "一個輕量級的自託管筆記服務,支援 Markdown,介面簡潔,幫助你快速記錄想法。"
+release_note = "1. 首次发布。"
+important = "需要先安装并启用 DockerEngine。"
+
+[fr-fr]
+name = "Memos"
+auth = "TOS Review Test Corpus"
+descript = "A lightweight self-hosted note-taking service with Markdown support and a clean web interface."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[de-de]
+name = "Memos"
+auth = "TOS Review Test Corpus"
+descript = "A lightweight self-hosted note-taking service with Markdown support and a clean web interface."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[it-it]
+name = "Memos"
+auth = "TOS Review Test Corpus"
+descript = "A lightweight self-hosted note-taking service with Markdown support and a clean web interface."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[es-es]
+name = "Memos"
+auth = "TOS Review Test Corpus"
+descript = "A lightweight self-hosted note-taking service with Markdown support and a clean web interface."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[hu-hu]
+name = "Memos"
+auth = "TOS Review Test Corpus"
+descript = "A lightweight self-hosted note-taking service with Markdown support and a clean web interface."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[ja-jp]
+name = "Memos"
+auth = "TOS Review Test Corpus"
+descript = "A lightweight self-hosted note-taking service with Markdown support and a clean web interface."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[ko-kr]
+name = "Memos"
+auth = "TOS Review Test Corpus"
+descript = "A lightweight self-hosted note-taking service with Markdown support and a clean web interface."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[pl-pl]
+name = "Memos"
+auth = "TOS Review Test Corpus"
+descript = "A lightweight self-hosted note-taking service with Markdown support and a clean web interface."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[ru-ru]
+name = "Memos"
+auth = "TOS Review Test Corpus"
+descript = "A lightweight self-hosted note-taking service with Markdown support and a clean web interface."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[tr-tr]
+name = "Memos"
+auth = "TOS Review Test Corpus"
+descript = "A lightweight self-hosted note-taking service with Markdown support and a clean web interface."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[pt-pt]
+name = "Memos"
+auth = "TOS Review Test Corpus"
+descript = "A lightweight self-hosted note-taking service with Markdown support and a clean web interface."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
